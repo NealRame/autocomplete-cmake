@@ -1,3 +1,5 @@
+## 0.3.0
+* Autocomplete suggestion for find_file, find_library, find_package, find_path, find_program, include.
 ## 0.2.0
 * Filter selection based on scope,
 * When a function suggestion is accepted, move the cursor between parenthesis.
