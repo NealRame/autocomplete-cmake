@@ -1,7 +1,7 @@
 {
   "name": "autocomplete-cmake",
   "main": "./lib/autocomplete-cmake",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "An Autocomplete Plus provider for CMake.",
   "repository": "https://github.com/NealRame/autocomplete-cmake",
   "license": "MIT",
